@@ -19,3 +19,13 @@ Este script toma un número ingresado por el usuario e imprime su tabla de multi
 
 Este es un programa en Python que cuenta el número de vocales en una cadena dada por el usuario. El programa es insensible a mayúsculas, lo que significa que cuenta tanto vocales minúsculas como mayúsculas.
 
+# Challenge Dia 4
+## Ordenar Lista de Números
+
+Este programa solicita al usuario una lista de números separados por comas, los ordena en orden ascendente y muestra la lista ordenada.
+El programa realiza los siguientes pasos:
+
+1. Solicita al usuario que ingrese una lista de números separados por comas.
+2. Convierte la entrada del usuario en una lista de números.
+3. Ordena la lista de números en orden ascendente.
+4. Muestra la lista ordenada.
