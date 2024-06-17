@@ -29,3 +29,9 @@ El programa realiza los siguientes pasos:
 2. Convierte la entrada del usuario en una lista de números.
 3. Ordena la lista de números en orden ascendente.
 4. Muestra la lista ordenada.
+
+# Challenge Dia 5
+## Crear un Diccionario
+Este código en Python crea un diccionario a partir de dos listas de igual longitud, utilizando las claves de la primera lista para asociarlas a los valores de la segunda lista.
+
+
