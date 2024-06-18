@@ -34,4 +34,13 @@ El programa realiza los siguientes pasos:
 ## Crear un Diccionario
 Este código en Python crea un diccionario a partir de dos listas de igual longitud, utilizando las claves de la primera lista para asociarlas a los valores de la segunda lista.
 
+# Challenge Dia 6
+## Conversión de Temperatura
+Este proyecto es un programa sencillo en Python que convierte una temperatura dada en grados Celsius a grados Fahrenheit.
+El programa solicita al usuario que ingrese una temperatura en grados Celsius y luego la convierte a grados Fahrenheit utilizando la fórmula:
+
+fahrenheit = (celsius * 9/5) + 32
+
+
+
 
