@@ -41,6 +41,11 @@ El programa solicita al usuario que ingrese una temperatura en grados Celsius y 
 
 fahrenheit = (celsius * 9/5) + 32
 
+# Challenge Dia 7
+## Piedra, Papel o Tijeras
 
-
-
+¡Bienvenido al juego de Piedra, Papel o Tijeras! Este es un sencillo juego en Python donde puedes jugar contra la computadora.
+El juego de Piedra, Papel o Tijeras es un clásico juego de manos que se juega entre dos personas. En esta versión, juegas contra la computadora. Las reglas son simples:
+- Piedra vence a Tijeras.
+- Tijeras vence a Papel.
+- Papel vence a Piedra.
