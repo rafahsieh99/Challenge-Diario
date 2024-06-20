@@ -50,7 +50,8 @@ El juego de Piedra, Papel o Tijeras es un clásico juego de manos que se juega e
 - Tijeras vence a Papel.
 - Papel vence a Piedra.
 
-# Generador de Contraseñas 
+# Challenge Dia 8
+## Generador de Contraseñas 
 
 El generador de contraseñas es un programa desarrollado en Python que permite generar contraseñas seguras y aleatorias de longitud variable, entre 8 y 16 caracteres. Estas contraseñas incluyen caracteres alfanuméricos y especiales para garantizar la seguridad de las cuentas y servicios.
 Este proyecto es una implementación simple y funcional del generador de contraseñas seguras. El programa proporciona una interfaz amigable y un flujo sencillo para que el usuario pueda especificar la longitud deseada y recibir una contraseña.
