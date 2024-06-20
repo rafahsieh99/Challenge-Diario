@@ -35,7 +35,4 @@ def jugar():
             print("Gracias por participar")
             break
 
-
-
-# Ejecutar el juego
 jugar()
