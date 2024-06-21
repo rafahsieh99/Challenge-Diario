@@ -55,3 +55,8 @@ El juego de Piedra, Papel o Tijeras es un clásico juego de manos que se juega e
 
 El generador de contraseñas es un programa desarrollado en Python que permite generar contraseñas seguras y aleatorias de longitud variable, entre 8 y 16 caracteres. Estas contraseñas incluyen caracteres alfanuméricos y especiales para garantizar la seguridad de las cuentas y servicios.
 Este proyecto es una implementación simple y funcional del generador de contraseñas seguras. El programa proporciona una interfaz amigable y un flujo sencillo para que el usuario pueda especificar la longitud deseada y recibir una contraseña.
+
+# Dia 9 
+## Programa de Suma de Números en C++
+
+Este programa en C++ permite al usuario ingresar dos números, calcular su suma y mostrar el resultado. Después de mostrar la suma, el programa le pregunta al usuario si desea ingresar otros números y repetir el proceso. Si el usuario ingresa "no", el programa finaliza.
